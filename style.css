@@ -17,6 +17,14 @@ div#text {
     margin-top: 60px;
 }
 
+div#projects {
+    font-family: 'Jost';
+    font-size: 20px;
+    text-align: left;
+    justify-content: center;
+    margin-top: 80px;
+}
+
 div#icons {
     position: absolute;
     bottom: 2.5%;
