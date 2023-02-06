@@ -1,1 +1,8 @@
+@font-face {
+    font-family: 'Jost';
+    src: 'https://indestructibletype.com/fonts/Jost.css';
+}
 
+div {
+    font-family: 'Jost';
+}
