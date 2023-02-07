@@ -23,7 +23,6 @@ div#text {
     text-align: center;
     justify-content: center;
     margin-top: 60px;
-    padding-bottom: 10px;
 }
 
 div#about {
@@ -39,7 +38,7 @@ div#projects {
     font-size: 20px;
     text-align: center;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 div#icons {
