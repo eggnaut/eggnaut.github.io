@@ -23,6 +23,7 @@ div#text {
     text-align: center;
     justify-content: center;
     margin-top: 60px;
+    padding-bottom: 10px;
 }
 
 div#about {
