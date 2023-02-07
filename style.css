@@ -3,6 +3,14 @@
     src: 'https://indestructibletype.com/fonts/Jost.css';
 }
 
+.big-text {
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+    width: 600px;
+    word-wrap: auto;
+}
+
 div#logo {
     display: flex;
     justify-content: center;
@@ -17,9 +25,26 @@ div#text {
     margin-top: 60px;
 }
 
+div#about {
+    font-family: 'Jost';
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+div#projects {
+    font-family: 'Jost';
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
 div#icons {
-    position: absolute;
-    bottom: 2.5%;
+    position: relative;
+    top: 80px;
+    padding-bottom: 20px;
     left: 50%;
 }
 
