@@ -36,7 +36,11 @@ div#projects {
     margin-top: 100px;
 }
 
-div#icons {
+div#skills {
+    margin-top: 110px;
+}
+
+div#socials {
     margin-top: 80px;
     margin-bottom: 20px;
     text-align: center;
