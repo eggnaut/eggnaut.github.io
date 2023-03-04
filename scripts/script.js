@@ -10,21 +10,21 @@
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 // Lesser General Public License for more details.
-
+//
 // You should have received a copy of the GNU Lesser General Public
 // License along with this library; if not, write to the Free Software
 // Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
 // USA
 
-let mybutton = document.getElementById('topBtn');
+let btn = document.getElementById('topBtn');
 
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 60 || document.documentElement.scrollTop > 60) {
-    mybutton.style.display = 'block';
+    btn.style.display = 'block';
   } else {
-    mybutton.style.display = 'none';
+    btn.style.display = 'none';
   }
 }
 
