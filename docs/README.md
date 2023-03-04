@@ -22,4 +22,6 @@ Personal website.
 ![GitHub last commit](https://img.shields.io/github/last-commit/eggnaut/eggnaut.github.io?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/eggnaut/eggnaut.github.io?style=for-the-badge)
 
 ## License:
-This project is licensed under the `GNU Lesser General Public License v2.1` license. License information can be found in `docs/LICENSE.md`.
+This project is licensed under the `GNU Lesser General Public License v2.1` license. 
+
+License information can be found in `docs/LICENSE.md`.
